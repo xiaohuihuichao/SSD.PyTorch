@@ -1,0 +1,8 @@
+/home/data/train/659.jpg::598,618,745,766,logo;336,508,584,758,logo
+/home/data/train/298.jpg::13,100,175,263,logo
+/home/data/train/295.jpg::94,217,262,386,logo
+/home/data/train/301.jpg::261,538,370,648,logo;464,180,623,340,logo
+/home/data/train/841.jpg::502,163,611,273,logo
+/home/data/train/608.jpg::104,380,256,533,logo
+/home/data/train/556.jpg::130,38,320,230,logo
+/home/data/train/887.jpg::583,357,745,520,logo
